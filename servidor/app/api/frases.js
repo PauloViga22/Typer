@@ -46,8 +46,23 @@ var frases = [{
     tempo: 7
   },
   {
-    _id: 9,
-    texto: 'Existem três jeitos de desenvolver software. O jeito certo, o jeito errado e o meu jeito, que é igual o jeito errado só que mais rápido.',
+    _id: 10,
+    texto: 'It’s not about ideas. It’s about making ideas happen.',
+    tempo: 20
+  },
+  {
+    _id: 11,
+    texto: 'Always deliver more than expected.',
+    tempo: 20
+  },
+  {
+    _id: 12,
+    texto: 'The most courageous act is still to think for yourself. Aloud.',
+    tempo: 20
+  },
+  {
+    _id: 13,
+    texto: 'Fearlessness is like a muscle. I know from my own life that the more I exercise it, the more natural it becomes to not let my fears run me.',
     tempo: 20
   },
 
